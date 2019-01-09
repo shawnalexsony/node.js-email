@@ -1,0 +1,15 @@
+{
+  "name": "node-mail",
+  "version": "1.0.0",
+  "description": "send email ",
+  "main": "mail.js",
+  "dependencies": {
+    "nodemailer": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shawn",
+  "license": "ISC"
+}
