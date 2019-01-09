@@ -5,7 +5,7 @@ var smtpConfig = {
   port: 465,
   secure: true, // use SSL
   auth: {
-      user: 'gmail address',
+      user: 'sender gmail address',
       pass: 'password'
   }
 };
